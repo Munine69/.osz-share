@@ -1,4 +1,4 @@
-# Osz Share (Client)
+# .Osz Share (Client)
 
 1. Download `OszShare-...-win-x64.zip` from Releases.
 2. Unzip it.
