@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+.vs/
+.vscode/
+artifacts/
+*.user
+*.suo
+*.cache
+*.zip
+*.sha256.txt
+*.exe
